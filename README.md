@@ -36,4 +36,4 @@ https://github.com/ouissalhadid2001/EAR_project/assets/127057734/0464da9d-5de6-4
 * Les classes services qui implementent IDaoLocal genèrent l'erreur 'More than one Jakarta Enterprise Beans found with interface of type 'dao.IDaoLocal''
 Solution proposée : ajouter des interfaces qui hérite de IDaoLocal pour chacune des classes et l'utiliser pour éviter la confusion pendant l'injection de dépendances assurée par l'annotation @EJB
 * Problème au niveau du fichier jsp lors de l'utilisation des tags (boucles,condition,etc...) 
-Solution adoptée :Ajout des jars jstl.jar,jstl-standard.jar,jstl-impl.jar au niveau du dossier lib du projet client Web.
+Solution adoptée :Ajout des jars jstl.jar,jstl-standard.jar,jstl-impl.jar au niveau du classpath de la partie libraries du projet client Web.
