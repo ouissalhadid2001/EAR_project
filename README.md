@@ -1,36 +1,51 @@
 # EAR_project : Gestion d'un établissement
 Base de données : 
-![database](https://github.com/ouissalhadid2001/EAR_project/assets/127057734/819573f9-b1d1-4b91-a2c7-ef47cff27d52)
+![database](https://github.com/ouissalhadid2001/EAR_project/assets/127057734/fa0bfc2b-920d-42aa-bcdf-4fdc9de96a97)
 
 Gestion des Roles :
 
 
-https://github.com/ouissalhadid2001/EAR_project/assets/127057734/68e8afc3-47a3-4ed4-9b5b-886a2bc5bf9b
+
+
+https://github.com/ouissalhadid2001/EAR_project/assets/127057734/270b42a4-a11b-441f-831f-8b3564ffa5e5
+
 
 
 
 Gestion des Filières:
 
 
-https://github.com/ouissalhadid2001/EAR_project/assets/127057734/9d635d92-aa30-4984-a0a8-afbb76ebfa2a
+
+https://github.com/ouissalhadid2001/EAR_project/assets/127057734/6467bf12-86ae-4b75-85e6-e895581389b7
+
+
 
 
 Gestion des étudiants :
 
 
-https://github.com/ouissalhadid2001/EAR_project/assets/127057734/aaf41555-25f4-4ff5-ab10-9c0918520548
+
+https://github.com/ouissalhadid2001/EAR_project/assets/127057734/85de2e75-8646-433b-a8a1-7b96d44bdef1
+
+
 
 
 Gestion des utilisateurs  et affectation des roles :
 
 
-https://github.com/ouissalhadid2001/EAR_project/assets/127057734/91f46c35-e36e-4b85-b573-f0a0e3255dd7
+
+https://github.com/ouissalhadid2001/EAR_project/assets/127057734/baccb05f-31b2-48f0-b643-fb3e820164a4
+
+
 
 Liste des étudiants d'une filières :
 
 
 
-https://github.com/ouissalhadid2001/EAR_project/assets/127057734/0464da9d-5de6-44fc-a964-4d9623262acf
+
+
+https://github.com/ouissalhadid2001/EAR_project/assets/127057734/97b7d67a-6aad-494c-9925-b3c2edb29d1b
+
 
 -------------------------------Erreurs rencontrées------------------------------------------------
 * Les classes services qui implementent IDaoLocal genèrent l'erreur 'More than one Jakarta Enterprise Beans found with interface of type 'dao.IDaoLocal''
